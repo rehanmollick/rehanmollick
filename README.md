@@ -82,18 +82,6 @@
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehanmollick&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanmollick&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
 ## 🌟 Highlighted Projects
 
 - 🔭 **[Orbit](https://github.com/rehanmollick/orbit)** – Full‑stack networking app with React Native, Firebase, and ESP32 Bluetooth beacons; automatically logs event check‑ins in 15m radius.
@@ -107,5 +95,4 @@
 - 🥇 **1st Place District Championship & 6A UIL Texas State Champion** – FTC Robotics Team 14524 (2023-2025)
 - 🍎 **Apple WWDC Swift Student Challenge Winner** – 2021 & 2022 (7% acceptance rate, 1 of 350 global winners)
 - 🎨 **Best Design Award** – Texas Convergent Demo Day (presented to 80 attendees including 5 judges)
-- 📊 **Founded Data Science Club** – Scaled from 0 to 40 members in first semester with weekly Python/ML workshops
 
