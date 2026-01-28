@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rehan Mollick 👋</h1>
+<h1 align="center">Hi, I'm Md Rehan Mollick 👋</h1>
 
 <h3 align="center">CS @ The University of Texas at Austin • '29</h3>
 <h4 align="center">Aspiring Software Engineer • Open to SWE Internships (Summer '26)</h4>
