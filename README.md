@@ -77,9 +77,7 @@
 
 ## 🛠️ What I'm Working On
 
-- 🚀 Building **Orbit**, a full‑stack IoT networking app with React Native, Firebase, and ESP32 Bluetooth beacons.
-- 💻 Grinding **LeetCode** and Data Structures & Algorithms for internship interviews.
-- 🏗️ Shipping production features on **Texas Convergent** build team — end‑to‑end IoT event check‑in system for 500+ users.
+- 💻 Grinding **LeetCode** and Data Structures & Algorithms.
 - 🎯 Exploring **Web3**, **cloud infra**, and scalable backend architecture with Docker and Kubernetes.
 
 ---
