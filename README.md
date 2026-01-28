@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/md-rehan-mollick">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
-  </a>
   <a href="mailto:rehanmollick07@utexas.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
