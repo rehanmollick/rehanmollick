@@ -77,6 +77,7 @@
 
 ## 🛠️ What I'm Working On
 
+- 🏗️ Joining and contributing to different CS orgs and possibly startups. 
 - 💻 Grinding **LeetCode** and Data Structures & Algorithms.
 - 🎯 Exploring **Web3**, **cloud infra**, and scalable backend architecture with Docker and Kubernetes.
 
