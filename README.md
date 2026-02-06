@@ -4,7 +4,7 @@
 <h4 align="center">Aspiring Software Engineer • Open to Internships (Summer '26)</h4>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/md-rehan-mollick-674b042b4](https://www.linkedin.com/in/md-rehan-mollick-674b042b4)">
+  <a href="https://www.linkedin.com/in/md-rehan-mollick-674b042b4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rehanmollick07@gmail.com">
