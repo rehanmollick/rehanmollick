@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Md Rehan Mollick 👋</h1>
 
 <h3 align="center">
-  <img src="https://seeklogo.com/images/U/university-of-texas-at-austin-longhorns-logo-21D23FB28C-seeklogo.com.png" alt="Longhorns" width="30" style="vertical-align: middle;"/>
+  <img src="[https://seeklogo.com/images/U/university-of-texas-at-austin-longhorns-logo-21D23FB28C-seeklogo.com.png](https://en.wikipedia.org/wiki/File:Texas_Longhorns_logo.svg)" alt="Longhorns" width="30" style="vertical-align: middle;"/>
   Computer Science @ The University of Texas at Austin
 </h3>
 <h4 align="center">Aspiring Software Engineer • Open to Internships (Summer '26)</h4>
