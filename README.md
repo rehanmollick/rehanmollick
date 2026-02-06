@@ -4,10 +4,10 @@
 <h4 align="center">Aspiring Software Engineer • Open to Internships (Summer '26)</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-rehan-mollick">
+  <a href="www.linkedin.com/in/md-rehan-mollick-674b042b4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rehanmollick07@utexas.edu">
+  <a href="mailto:rehanmollick07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
