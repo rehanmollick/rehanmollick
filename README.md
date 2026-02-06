@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Md Rehan Mollick 👋</h1>
 
 <h3 align="center">
-  Computer Science @ The University of Texas at Austin
+  Computer Science @ The University of Texas at Austin 🤘
 </h3>
 <h4 align="center">Aspiring Software Engineer • Open to Internships (Summer '26)</h4>
 
