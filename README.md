@@ -84,9 +84,11 @@
 
 ## 🌟 Highlighted Projects
 
-- 🔭 **[Orbit](https://github.com/rehanmollick/orbit)** – Full‑stack networking app with React Native, Firebase, and ESP32 Bluetooth beacons; automatically logs event check‑ins in 15m radius.
-- ⚙️ **[Mp3-Player](https://github.com/rehanmollick/Mp3-Player)** – Cross‑platform Android music player bridging React Native UI with native Java backend; sub‑50ms playback latency.
-- 🚀 **HackTX '25 Fintech Dashboard** – Shipped 5 production features in 24 hours; commission vesting, chargeback processor, vault allocation (4,000 lines of TypeScript/React).
+- 🔭 **[Orbit](https://github.com/mek-github/iot-bt-orbit)** – Built for **Texas Convergent Demo Day 2025**; a React Native + Firebase mobile app that uses Bluetooth-inspired proximity detection to automatically connect students and recruiters at UT Austin career fairs, complete with real-time orbit visualizations and post-event analytics — won **Best Design Award**.
+- 💸 **[SplitPay Escrow](https://github.com/rehanmollick/splitpay-escrow)** – A decentralized escrow dApp on the **Ethereum Sepolia testnet** built with Solidity, Next.js, and ethers.js; locks freelance payments in a smart contract with automatic multi-party splits and deadline-based refunds — no intermediaries, no fees.
+- ⚡ **[GridPulse](https://github.com/rehanmollick/gridpulse)** – Built for **Base Power Company** at TVG Hackathon Spring 2026; an AI-powered grid dispatch command center that predicts energy demand spikes around UT Austin sports events and coordinates 4,200+ residential batteries to dispatch clean energy back to the grid at peak ERCOT pricing.
+- ✈️ **[FlightSense](https://github.com/rehanmollick/HackTamu26)** – Built at **HackTAMU 2026**; decentralized flight delay prediction markets on Solana where traders stake SOL on YES/NO outcomes, using ML-powered disruption probability to incentivize crowd-sourced aviation forecasting — addressing the $33B annual cost of flight delays.
+- 🚀 **[Aegis Insurance Dashboard](https://github.com/AbdullahKabeer/hacktx25)** – Built at **HackTX '25** in 24 hours; a full-stack insurance agency management platform with commission vesting, chargeback processing, and vault allocation built with Next.js 15, TypeScript, and shadcn/ui — 4,000+ lines shipped to production.
 
 ---
 
@@ -95,4 +97,3 @@
 - 🥇 **1st Place District Championship & 6A UIL Texas State Champion** – FTC Robotics Team 14524 (2023-2025)
 - 🍎 **Apple WWDC Swift Student Challenge Winner** – 2021 & 2022 (7% acceptance rate, 1 of 350 global winners)
 - 🎨 **Best Design Award** – Texas Convergent Demo Day (presented to 80 attendees including 5 judges)
-
