@@ -3,7 +3,7 @@
 <h3 align="center">
   Computer Science @ The University of Texas at Austin 🤘
 </h3>
-<h4 align="center">Aspiring Software Engineer • Open to Internships (Summer '26)</h4>
+<h4 align="center">Software Developer • Open to Internships (Summer '26)</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-rehan-mollick-674b042b4">
