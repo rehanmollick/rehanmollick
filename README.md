@@ -47,10 +47,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehanmollick&theme=tokyonight" alt="Profile Details" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehanmollick&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rehanmollick&theme=tokyonight" alt="Most Commit Language" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rehanmollick&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rehanmollick&theme=tokyonight&utcOffset=-6" alt="Productive Time" />
 </p>
