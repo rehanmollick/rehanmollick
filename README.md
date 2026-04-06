@@ -42,6 +42,7 @@
 ---
 
 ## 🏆 Selected Awards
+- **Texas Claude Builder Club Hackathon Winner** (Apr 2026) — Won 1 out of the 5 categories (Most Creative Award) 
 - **Apple WWDC Swift Student Challenge Winner** (2021 & 2022) — 1 of 350 global winners
 - **Texas Convergent Demo Day** (Dec 2025) — Best Design Award
 - **FTC Robotics** (2025) — 1st Place District Championship & 6A UIL Texas State Champion
