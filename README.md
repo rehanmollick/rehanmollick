@@ -22,7 +22,7 @@
 
 ## ⚡ What I'm Actively Working On
 
-- 🤝 Reaching out to startups for Summer '26 opportunities.
+- 🤝 Reaching out for Summer '26 opportunities.
 - 💡 Keeping up with the latest technologies and looking into R&D.
 - 🚀 Competing in hackathons.
 
