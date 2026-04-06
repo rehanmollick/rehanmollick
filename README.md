@@ -26,10 +26,10 @@
 ---
 
 ## 🚀 Selected Projects
-- **[NeuroDesign](https://github.com/rehanmollick/NeuroDesign)**: Bringing neuro-marketing technology to everyday individuals. Uses brain response activity for better design decisions. Built with Metas state of the art Tribe V2.
+- **[NeuroDesign](https://github.com/rehanmollick/NeuroDesign)**: Bringing neuro-marketing technology to everyday individuals. Uses brain response activity for better design decisions. Built with Metas state of the art Tribe V2 and gemini 2.5 pro flash llm integration.
 - **[Karmen LLM Assistant](https://github.com/rehanmollick/karmen-playground)**: A construction scheduling assistant featuring LLM integration and Monte Carlo Risk Analysis.
 - **[SplitPay Escrow](https://github.com/rehanmollick/splitpay-escrow)**: Decentralized escrow dApp for freelance payments with automatic multi-party splits. Built with Solidity, Next.js, and ethers.js on the Sepolia testnet.
-- **[GridPulse](https://github.com/rehanmollick/gridpulse)**: AI-powered grid dispatch tool predicting demand spikes. (Power Grid Arbitrage) 
+- **[GridPulse](https://github.com/rehanmollick/gridpulse)**: AI-powered grid dispatch tool predicting demand spikes made using simulated csv data and integrating grok llm for dipatch notes. (Power Grid Arbitrage) 
 
 ---
 
