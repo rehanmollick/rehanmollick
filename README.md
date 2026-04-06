@@ -21,6 +21,7 @@
 - 🤝 Reaching out for Summer '26 opportunities.
 - 💡 Keeping up with the latest technologies and looking into R&D.
 - 🚀 Competing in hackathons.
+- 🏗️ Building my Portfolio 
 
 ---
 
