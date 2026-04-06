@@ -34,9 +34,19 @@
 ---
 
 ## 📊 GitHub Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rehanmollick&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" alt="Rehan's GitHub stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rehanmollick&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanmollick&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanmollick&layout=donut&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanmollick&theme=tokyo-night" alt="Activity Graph" />
+  </a>
 </p>
 
 ---
