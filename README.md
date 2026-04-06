@@ -43,5 +43,5 @@
 
 ## 🏆 Selected Awards
 - **Apple WWDC Swift Student Challenge Winner** (2021 & 2022) — 1 of 350 global winners
-- **Texas Convergent Demo Day** — Best Design Award
-- **FTC Robotics** — 1st Place District Championship & 6A UIL Texas State Champion
+- **Texas Convergent Demo Day** (Dec 2025) — Best Design Award
+- **FTC Robotics** (2025) — 1st Place District Championship & 6A UIL Texas State Champion
