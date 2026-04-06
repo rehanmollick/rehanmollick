@@ -46,9 +46,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehanmollick&theme=tokyonight" alt="Profile Details" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rehanmollick&theme=tokyonight&utcOffset=-6" alt="Productive Time" />
-</p>
 
 ---
 
