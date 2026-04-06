@@ -33,20 +33,26 @@
 
 ---
 
-## 📊 GitHub Metrics
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanmollick&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanmollick&layout=donut&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanmollick&theme=tokyo-night" alt="Activity Graph" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,postgres,supabase,solidity,docker,git,vercel,figma&perline=7" />
   </a>
+</p>
+
+---
+
+## 📊 GitHub Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehanmollick&theme=tokyonight" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehanmollick&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rehanmollick&theme=tokyonight" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rehanmollick&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rehanmollick&theme=tokyonight&utcOffset=-6" alt="Productive Time" />
 </p>
 
 ---
