@@ -2,7 +2,7 @@
 <h3 align="center">
   Computer Science @ The University of Texas at Austin 🤘
 </h3>
-<h4 align="center">Software Developer • Open to Internships</h4>
+<h4 align="center">Software Developer</h4>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rehanmollick&label=Profile%20Views&color=blue&style=flat&base=345" alt="Profile Views" />
 </p>
