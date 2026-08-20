@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Md%20Rehan%20Mollick&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=CS%20%40%20UT%20Austin&descSize=20&descAlignY=55" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2A00,50:BF5700,100:E8842B&height=210&section=header&text=Md%20Rehan%20Mollick&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=CS%20%40%20UT%20Austin&descSize=20&descAlignY=55" alt="banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2800&pause=900&center=true&vCenter=true&width=620&color=58A6FF&lines=fMRI+models+%E2%86%92+3D+brain+heatmaps+in+your+browser;10%2C000+Monte+Carlo+sims+%E2%86%92+one+confidence+date;6+federal+data+sources+%E2%86%92+a+flood+score+in+seconds;hard+models%2C+clickable+demos" alt="typing" />
@@ -100,4 +100,4 @@ Most people send a resume. I ship a working product for the company first, then 
   <a href="https://rehanmd.tech"><b>rehanmd.tech</b></a> · <a href="mailto:rehanmollick07@gmail.com">rehanmollick07@gmail.com</a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8842B,50:BF5700,100:5C2A00&height=110&section=footer" alt="footer" />
