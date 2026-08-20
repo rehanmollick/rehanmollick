@@ -46,7 +46,7 @@ Most people send a resume. I ship a working product for the company first, then 
 
 - **[Karmen](https://github.com/rehanmollick/karmen-playground)** (YC F24) → built their construction-scheduling copilot as a live demo
 - **[Base Power](https://github.com/rehanmollick/gridpulse)** → GridPulse, a battery-dispatch command center for their 4,200-battery Austin fleet
-- **[An interviewer](https://github.com/rehanmollick/Mp3-Player)** → asked if I'd ever touched Android. I answered with a working MP3 player instead of a yes.
+- **[An internship](https://github.com/rehanmollick/Mp3-Player)** → needed Android experience I didn't have yet, so I learned it and built an MP3 player app for the interview.
 
 ---
 
