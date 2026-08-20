@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header" alt="banner" />
-
-<h1 align="center">Rehan Mollick</h1>
-<p align="center"><b>I ship the demo before the interview.</b></p>
+<h1 align="center">Md Rehan Mollick</h1>
+<h3 align="center">CS @ UT Austin 🤘</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/fMRI_models-3D_brain_heatmaps-58A6FF?style=flat-square&labelColor=0d1117" alt="fMRI" />
@@ -11,7 +9,7 @@
 
 <p align="center">
   I take research-grade machinery — brain models, Monte Carlo engines, federal hydrology data —<br/>
-  and turn it into products that load in your browser in under a minute. CS @ UT Austin 🤘
+  and turn it into products that load in your browser in under a minute.
 </p>
 
 <p align="center">
@@ -99,5 +97,3 @@ Most people send a resume. I ship a working product for the company first, then 
 <p align="center">
   <a href="https://rehanmd.tech"><b>rehanmd.tech</b></a> · <a href="mailto:rehanmollick07@gmail.com">rehanmollick07@gmail.com</a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
