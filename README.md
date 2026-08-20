@@ -36,6 +36,7 @@
 | 📈 **[QuantForge](https://github.com/rehanmollick/mgyBuildathon)** <br/><sub>`6-agent pipeline` `FastAPI` `Next.js`</sub> | Every backtest is a lie — it tests the one history that happened. QuantForge runs your trading strategy against **200 synthetic market histories** and tells you if your edge is real or survivorship bias in a suit. [Live demo](https://frontend-gamma-ten-23.vercel.app) |
 | 🏗️ **[Karmen Playground](https://github.com/rehanmollick/karmen-playground)** <br/><sub>`NetworkX CPM` `NumPy` `Gemini`</sub> | Describe a construction project in plain English → full CPM schedule, change-order simulation, and **10,000-run Monte Carlo** deadline forecasting. Built unprompted for a YC F24 founding team. [Live demo](https://karmen-playground.vercel.app/) |
 | 💧 **[Drip](https://github.com/rehanmollick/Drip)** <br/><sub>`Claude` `Next.js` `PWA`</sub> | TikTok's format, a great teacher's brain. Paste anything — a doc, a repo, a lecture — and get an infinite, adaptive, snap-scrolling feed that teaches it. Currently in the lab. 🧪 |
+| 🎯 **[Outreach Profiler](https://github.com/rehanmollick/Outreach-profiler)** <br/><sub>`Claude` `Next.js` `Supabase`</sub> | Give it a name → a psychographic dossier: archetype, motivators, verbatim lexicon, and outreach drafts calibrated to how that person actually thinks. Cold outreach, engineered. |
 
 ---
 
@@ -88,7 +89,7 @@ Most people send a resume. I ship a working product for the company first, then 
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehanmollick&theme=tokyonight" alt="Top languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rehanmollick&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rehanmollick&theme=tokyonight&utcOffset=-6" alt="Commit times" />
 </p>
 
 <p align="center">
