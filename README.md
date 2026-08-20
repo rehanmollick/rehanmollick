@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I build things that supposedly need a PhD, a GPU cluster, or a $30K consultant —<br/>
-  then ship them as links you can click.
+  I like turning heavy technical ideas — brain models, risk simulation, flood data —<br/>
+  into real products you can try in your browser.
 </p>
 
 <p align="center">
