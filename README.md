@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I like turning heavy technical ideas like brain models, risk simulation, flood data <br/>
+  I like turning heavy technical ideas like brain models, risk simulation and flood data <br/>
   into real products you can try.
 </p>
 
