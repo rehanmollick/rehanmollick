@@ -1,7 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Rehan%20Mollick&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=I%20ship%20the%20demo%20before%20the%20interview&descSize=18&descAlignY=55" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Rehan%20Mollick&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=I%20ship%20the%20demo%20before%20the%20interview&descSize=18&descAlignY=55" alt="banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2800&pause=900&center=true&vCenter=true&width=620&color=58A6FF&lines=fMRI+models+%E2%86%92+3D+brain+heatmaps+in+your+browser;10%2C000+Monte+Carlo+sims+%E2%86%92+one+confidence+date;6+federal+data+sources+%E2%86%92+a+flood+score+in+seconds;hard+models%2C+clickable+demos" alt="typing" />
+  <img src="https://img.shields.io/badge/fMRI_models-3D_brain_heatmaps-58A6FF?style=flat-square&labelColor=0d1117" alt="fMRI" />
+  <img src="https://img.shields.io/badge/10,000_Monte_Carlo_sims-one_confidence_date-58A6FF?style=flat-square&labelColor=0d1117" alt="Monte Carlo" />
+  <img src="https://img.shields.io/badge/6_federal_data_sources-one_flood_score-58A6FF?style=flat-square&labelColor=0d1117" alt="Federal data" />
 </p>
 
 <p align="center">
@@ -83,8 +85,11 @@ Most people send a resume. I ship a working product for the company first, then 
 ## 📊 Numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rehanmollick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rehanmollick&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehanmollick&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=rehanmollick&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
 </p>
 
 <p align="center">
