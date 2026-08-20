@@ -1,10 +1,7 @@
-<h1 align="center">Md Rehan Mollick</h1>
-<h3 align="center">CS @ UT Austin 🤘</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Md%20Rehan%20Mollick&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=CS%20%40%20UT%20Austin&descSize=20&descAlignY=55" alt="banner" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/fMRI_models-3D_brain_heatmaps-58A6FF?style=flat-square&labelColor=0d1117" alt="fMRI" />
-  <img src="https://img.shields.io/badge/10,000_Monte_Carlo_sims-one_confidence_date-58A6FF?style=flat-square&labelColor=0d1117" alt="Monte Carlo" />
-  <img src="https://img.shields.io/badge/6_federal_data_sources-one_flood_score-58A6FF?style=flat-square&labelColor=0d1117" alt="Federal data" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2800&pause=900&center=true&vCenter=true&width=620&color=58A6FF&lines=fMRI+models+%E2%86%92+3D+brain+heatmaps+in+your+browser;10%2C000+Monte+Carlo+sims+%E2%86%92+one+confidence+date;6+federal+data+sources+%E2%86%92+a+flood+score+in+seconds;hard+models%2C+clickable+demos" alt="typing" />
 </p>
 
 <p align="center">
@@ -97,3 +94,5 @@ Most people send a resume. I ship a working product for the company first, then 
 <p align="center">
   <a href="https://rehanmd.tech"><b>rehanmd.tech</b></a> · <a href="mailto:rehanmollick07@gmail.com">rehanmollick07@gmail.com</a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
