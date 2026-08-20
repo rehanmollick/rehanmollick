@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Rehan%20Mollick&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=I%20ship%20the%20demo%20before%20the%20interview&descSize=18&descAlignY=55" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header" alt="banner" />
+
+<h1 align="center">Rehan Mollick</h1>
+<p align="center"><b>I ship the demo before the interview.</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/fMRI_models-3D_brain_heatmaps-58A6FF?style=flat-square&labelColor=0d1117" alt="fMRI" />
@@ -89,7 +92,7 @@ Most people send a resume. I ship a working product for the company first, then 
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=rehanmollick&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=rehanmollick&theme=tokyonight&hide_border=true&background=0d1117&disable_animations=true" alt="Streak" />
 </p>
 
 <p align="center">
