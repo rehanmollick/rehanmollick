@@ -92,7 +92,8 @@ Most people send a resume. I ship a working product for the company first, then 
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=rehanmollick&theme=tokyonight&hide_border=true&background=0d1117&disable_animations=true" alt="Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehanmollick&theme=tokyonight" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rehanmollick&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
