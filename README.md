@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I take research-grade machinery — brain models, Monte Carlo engines, federal hydrology data —<br/>
-  and turn it into products that load in your browser in under a minute.
+  I build things that supposedly need a PhD, a GPU cluster, or a $30K consultant —<br/>
+  then ship them as links you can click.
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ Most people send a resume. I ship a working product for the company first, then 
 
 - **[Karmen](https://github.com/rehanmollick/karmen-playground)** (YC F24) → built their construction-scheduling copilot as a live demo
 - **[Base Power](https://github.com/rehanmollick/gridpulse)** → GridPulse, a battery-dispatch command center for their 4,200-battery Austin fleet
-- **[An internship interview](https://github.com/rehanmollick/Mp3-Player)** → they asked if I knew Android. I built an MP3 player before the follow-up call.
+- **[An interviewer](https://github.com/rehanmollick/Mp3-Player)** → asked if I'd ever touched Android. I answered with a working MP3 player instead of a yes.
 
 ---
 
@@ -88,9 +88,13 @@ Most people send a resume. I ship a working product for the company first, then 
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehanmollick&theme=tokyonight" alt="Top languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rehanmollick&theme=tokyonight&utcOffset=-6" alt="Commit times" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehanmollick&theme=tokyonight" alt="Top languages" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehanmollick/rehanmollick/output/github-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/rehanmollick/rehanmollick/output/github-snake.svg" alt="Snake eating my contributions" />
+</picture>
 
 <p align="center">
   <a href="https://rehanmd.tech"><b>rehanmd.tech</b></a> · <a href="mailto:rehanmollick07@gmail.com">rehanmollick07@gmail.com</a>
