@@ -75,7 +75,7 @@ Most people send a resume. I ship a working product for the company first, then 
 ## 🏆 Selected Awards
 
 - 🥇 **Texas Claude Builder Club Hackathon** — Most Creative Award (Apr 2026)
-- 🍎 **Apple WWDC Swift Student Challenge Winner** — 1 of 350 worldwide, twice (2021 & 2022)
+- 🍎 **Apple WWDC Swift Student Challenge Winner** — 1 of 350 worldwide, twice (2021)
 - 🎨 **Texas Convergent Demo Day** — Best Design Award (Dec 2025)
 - 🤖 **FTC Robotics** — 1st Place District Championship & 6A UIL Texas State Champion (2025)
 
